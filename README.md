@@ -35,6 +35,9 @@ Clean design with smooth animations
 - npm or yarn
 
 ### Installation
- Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/smart-todo-list.git
+2.cd smart-todo-list
+3.npm install
+4.npm run dev
